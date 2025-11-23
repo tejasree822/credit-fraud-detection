@@ -61,4 +61,49 @@ Using Logistic Regression with:
 
 Install requirements:
 
+pip install -r requirements.txt
+
+
+### **2. Open the notebook**
+
+
+jupyter notebook Credit_Fraud_Detection.ipynb
+
+
+### **3. Run all cells**
+That’s it!
+
+---
+
+## Project Structure
+
+
+
+Credit Fraud Detection/
+│── Credit_Fraud_Detection.ipynb
+│── README.md
+│── requirements.txt
+│── images/ (optional for visualizations)
+
+
+---
+
+##  Requirements
+
+Add the following inside `requirements.txt`:
+
+
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+imbalanced-learn
+
+
+---
+
+##  Author
+**Sai Teja Sree Ponnaganti**
 
